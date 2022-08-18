@@ -1,4 +1,14 @@
-<header class="text-indigo-600 body-font">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <header class="text-indigo-600 body-font">
         <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
           <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
             <svg xmlns="http://www.w3.org/2000/svg" fill="darkgreen" stroke="limegreen" stroke-linecap="circle" stroke-linejoin="circle" stroke-width="100" class=" w-4 h-4 p-2 bg-black-700  rounded-full w-10 h-10 text-aqua p-2 bg-green-700  rounded-full" viewcircle="0 0 24 24">
@@ -238,3 +248,5 @@
           </div>
         </div>
       </footer>
+</body>
+</html>
